@@ -9,6 +9,8 @@
 
 
 ![image](https://github.com/user-attachments/assets/2929847a-5a01-4bad-a532-1088d4722a09)
+
+
 #Mensaje de confirmacion 
 ![image](https://github.com/user-attachments/assets/9d41c0f0-67ac-4e3e-902a-1eef276eb860)
 #Queda registrado en la base de datos 
