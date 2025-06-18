@@ -1,7 +1,13 @@
 # Parcial-2
 #IMAGENES DEL FUNCIONAMIENTO DEL PROGRAMA
+
+
 ![image](https://github.com/user-attachments/assets/a6d6f1bc-353c-4aba-9d57-e746372eb306)
+
+
 #Se registro el libro
+
+
 ![image](https://github.com/user-attachments/assets/2929847a-5a01-4bad-a532-1088d4722a09)
 #Mensaje de confirmacion 
 ![image](https://github.com/user-attachments/assets/9d41c0f0-67ac-4e3e-902a-1eef276eb860)
