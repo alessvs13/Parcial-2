@@ -9,7 +9,7 @@ cred = credentials.Certificate("""C:\\Users\\ESTUDIANTES\\Desktop\\parcial-2-54b
 firebase_admin.initialize_app(cred, {
     "databaseURL": "https://parcial-2-54b3c-default-rtdb.firebaseio.com/"
 })
-# Funciones funcionales puras
+# Funciones del programa
 def crear_libro(titulo, autor, categoria):
     return {
         "id": str(uuid.uuid4()),
